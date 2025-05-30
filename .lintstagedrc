@@ -1,0 +1,9 @@
+{
+  "*.{css,less}": [
+    "git add"
+  ],
+  "*.{vue,js,jsx}": [
+    "eslint",
+    "git add"
+  ]
+}
